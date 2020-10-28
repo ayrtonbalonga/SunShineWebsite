@@ -1,0 +1,135 @@
+* 
+{
+    margin:0;
+    padding:0;
+  	
+
+
+
+}
+header
+{
+
+     background: url('instagram/2.jpg') no-repeat;
+    height:300px;
+    background-size: cover;
+    background-position:center;
+
+}
+.menu
+{float: right;
+ list-style:none;
+ margin-top:30px;
+}
+
+.menu li
+{
+    display: inline-block;
+}
+
+menu li a 
+{
+    color:white;
+    text-decoration:none;
+    padding:5px 20px;
+    font-family:"roboto",sans-serif;
+    font-size:15px;
+
+
+
+}
+.menu li.active a
+{
+    border: 1px solid black;
+
+
+
+}
+.menu li a:hover
+{
+    border: 1px solid black;
+
+
+
+}	
+
+a {
+    display: block;
+    width: 100%;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a:hover {
+    color: red;
+    background: #eff;
+}
+ul{    
+    position: relative;
+    top: 50px;
+    bottom: 100px;
+}
+
+.firstImage
+{
+
+    position: relative;
+    top:0px;
+
+
+}
+
+.text h1{
+	
+position:relative;
+top:150px;
+left:35%;
+	font-family:Snell Roundhand, cursive; 
+	font-size: 100px;
+	background: transparent;
+}
+.text h2{
+	
+	margin-left: 25%;
+	font-family:Snell Roundhand, cursive; 
+	font-size: 50px;
+
+
+}
+.text h3{
+	
+	margin-left: 18%;
+	font-family:Snell Roundhand, cursive; 
+	font-size: 50px;
+
+
+}
+
+
+footer{
+    height:-1000px;
+    position: relative;
+    bottom: 0px;
+    background-color: transparent;
+    
+}
+footer ul a{
+ display:inline-table;   
+width: 100px;
+margin: 0px 10px;
+ background-color: transparent;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+

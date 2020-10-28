@@ -1,0 +1,116 @@
+*{
+	margin:0;
+	padding:0;
+	
+	
+	
+}
+
+
+
+header .toppage{
+    background: url('pictures/background.jfif') no-repeat;
+    height:250px;
+    background-size: cover;
+    background-position:center;
+}
+
+.video {
+   
+ position:absolute;
+ margin-left:35%;
+ margin-top:150px;
+ margin-bottom:150px;
+ 
+
+
+    
+
+}
+.text {
+	font-family:Snell Roundhand, cursive;
+	font-size: 1000px;
+
+}
+
+
+table  {
+	position:absolute;
+	margin-top:400px;
+}
+
+.menu
+{float: right;
+ list-style:none;
+ margin-top:30px
+}
+
+.menu li
+{
+    display: inline-block;
+}
+
+menu li a 
+{
+    color:white;
+    text-decoration:none;
+    padding:5px 20px;
+    font-family:"roboto",sans-serif;
+    font-size:15px;
+
+
+
+}
+.menu li.active a
+{
+    border: 1px solid black;
+
+
+
+}
+.menu li a:hover
+{
+    border: 1px solid black;
+
+
+
+}	
+
+
+
+
+
+
+
+
+a {
+    display: block;
+    width: 100%;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a:hover {
+    color: red;
+    background: #eff;
+}
+ul{    
+    position: relative;
+    top: 50px;
+    bottom: 100px;
+}
+
+img:hover{
+	
+	tansform: scale (2.2);
+	transition: .5 transform;
+
+}
+
+
+
+
+
+
+
